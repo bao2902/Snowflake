@@ -1,0 +1,6 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - snowflake=1.2.0
+  - snowflake-snowpark-python=
